@@ -1,0 +1,12 @@
+.DS_Store
+xcuserdata
+*.xccheckout
+*.xcscmblueprint
+*.xcworkspace
+**/*.xcodeproj/xcuserdata
+
+*.rpp-bak
+*.rpp
+JuceLibraryCode
+Builds
+.suo
